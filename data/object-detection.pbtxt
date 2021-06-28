@@ -1,0 +1,28 @@
+# LABEL file 
+# Last modified by DocJeffu on 26 June'21
+# revise name for labels : 'forAnyItems'
+
+item {
+    id: 1
+    name:'tree'
+}
+
+item {
+    id: 2
+    name: 'tree branch'
+}
+
+item {
+    id: 3
+    name: 'vehicle'
+}
+
+item {
+    id: 4
+    name: 'pedestrian lane'
+}
+
+item {
+    id: 5
+    name: 'pole'
+}
