@@ -1,0 +1,38 @@
+<annotation>
+	<folder>PedestrianLane</folder>
+	<filename>15.jpg</filename>
+	<path>C:\Users\Jay\Desktop\DataSets\PedestrianLane\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian lane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>254</ymin>
+			<xmax>783</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>271</ymin>
+			<xmax>556</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
