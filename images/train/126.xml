@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>126.jpg</filename>
+	<path>C:\Users\Jay\Desktop\seerDataset\images\train\126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>204</ymin>
+			<xmax>923</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+</annotation>

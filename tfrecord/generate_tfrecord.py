@@ -29,16 +29,38 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'tree':
+    if row_label == 'pedestrian lane':
         return 1
-    elif row_label == 'tree branch':
+    if row_label == 'box':
         return 2
-    elif row_label == 'vehicle':
+    if row_label == 'cart':
         return 3
-    elif row_label == 'pedestrian lane':
+    if row_label == 'tree':
         return 4
-    elif row_label == 'pole':
+    if row_label == 'tree branches':
         return 5
+    if row_label == 'person':
+        return 6
+    if row_label == 'pole':
+        return 7
+    if row_label == 'wall':
+        return 8
+    if row_label == 'bottle':
+        return 9
+    if row_label == 'can':
+        return 10
+    if row_label == 'traffic light':
+        return 11
+    if row_label == 'bus':
+        return 12
+    if row_label == 'car':
+        return 13
+    if row_label == 'bike':
+        return 14
+    if row_label == 'plant':
+        return 15
+    if row_label == 'dog':
+        return 16
     else:
         None
 

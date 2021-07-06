@@ -4,25 +4,80 @@
 
 item {
     id: 1
-    name:'tree'
+    name:'pedestrian lane'
 }
 
 item {
     id: 2
-    name: 'tree branch'
+    name: 'box'
 }
 
 item {
     id: 3
-    name: 'vehicle'
+    name: 'cart'
 }
 
 item {
     id: 4
-    name: 'pedestrian lane'
+    name: 'tree'
 }
 
 item {
     id: 5
+    name: 'tree branches'
+}
+
+item {
+    id: 6
+    name: 'person'
+}
+
+item {
+    id: 7
     name: 'pole'
+}
+
+item {
+    id: 8
+    name: 'wall'
+}
+
+item {
+    id: 9
+    name: 'bottle'
+}
+
+item {
+    id: 10
+    name: 'can'
+}
+
+item {
+    id: 11
+    name: 'traffic light'
+}
+
+item {
+    id: 12
+    name: 'bus'
+}
+
+item {
+    id: 13
+    name: 'car'
+}
+
+item {
+    id: 14
+    name: 'bike'
+}
+
+item {
+    id: 15
+    name: 'plant'
+}
+
+item {
+    id: 16
+    name: 'dog'
 }
