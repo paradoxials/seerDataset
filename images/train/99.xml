@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>99.jpg</filename>
-	<path>C:\Users\Jay\Desktop\seerDataset\images\train\99.jpg</path>
+	<path>C:\Users\Jay\Desktop\train\99.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>667</height>
+		<width>640</width>
+		<height>426</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,58 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>348</xmin>
-			<ymin>94</ymin>
-			<xmax>568</xmax>
-			<ymax>657</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pedestrian lane</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>658</xmin>
-			<ymin>468</ymin>
-			<xmax>1000</xmax>
-			<ymax>667</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>893</xmin>
-			<ymin>235</ymin>
-			<xmax>924</xmax>
-			<ymax>278</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>666</xmin>
-			<ymin>348</ymin>
-			<xmax>731</xmax>
-			<ymax>455</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>840</xmin>
-			<ymin>338</ymin>
-			<xmax>882</xmax>
-			<ymax>463</ymax>
+			<xmin>222</xmin>
+			<ymin>55</ymin>
+			<xmax>358</xmax>
+			<ymax>412</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +29,70 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>486</xmin>
+			<xmin>310</xmin>
 			<ymin>1</ymin>
-			<xmax>594</xmax>
-			<ymax>667</ymax>
+			<xmax>382</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>427</xmin>
+			<ymin>221</ymin>
+			<xmax>467</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>538</xmin>
+			<ymin>218</ymin>
+			<xmax>562</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian lane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>300</ymin>
+			<xmax>640</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>traffic light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>572</xmin>
+			<ymin>150</ymin>
+			<xmax>591</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>579</xmin>
+			<ymin>182</ymin>
+			<xmax>587</xmax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 </annotation>

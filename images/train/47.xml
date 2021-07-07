@@ -1,26 +1,26 @@
 <annotation>
 	<folder>train</folder>
 	<filename>47.jpg</filename>
-	<path>C:\Users\Jay\Desktop\seerDataset\images\train\47.jpg</path>
+	<path>C:\Users\Jay\Desktop\train\47.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4608</width>
-		<height>3456</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>wall</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>354</xmin>
-			<ymin>249</ymin>
-			<xmax>4422</xmax>
-			<ymax>3334</ymax>
+			<xmin>7</xmin>
+			<ymin>8</ymin>
+			<xmax>631</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 </annotation>

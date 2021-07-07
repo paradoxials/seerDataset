@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
 	<filename>60.jpg</filename>
-	<path>C:\Users\Jay\Desktop\seerDataset\images\train\60.jpg</path>
+	<path>C:\Users\Jay\Desktop\train\60.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1000</width>
-		<height>562</height>
+		<width>640</width>
+		<height>359</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>5</xmin>
-			<ymin>5</ymin>
-			<xmax>1000</xmax>
-			<ymax>562</ymax>
+			<xmin>8</xmin>
+			<ymin>6</ymin>
+			<xmax>640</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

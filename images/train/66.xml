@@ -1,26 +1,50 @@
 <annotation>
 	<folder>train</folder>
 	<filename>66.jpg</filename>
-	<path>C:\Users\Jay\Desktop\seerDataset\images\train\66.jpg</path>
+	<path>C:\Users\Jay\Desktop\train\66.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4608</width>
-		<height>3456</height>
+		<width>640</width>
+		<height>480</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
 		<name>bottle</name>
 		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>1</ymin>
+			<xmax>371</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1593</xmin>
-			<ymin>6</ymin>
-			<xmax>2672</xmax>
-			<ymax>2942</ymax>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>219</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>3</ymin>
+			<xmax>640</xmax>
+			<ymax>254</ymax>
 		</bndbox>
 	</object>
 </annotation>
